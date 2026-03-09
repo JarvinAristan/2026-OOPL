@@ -29,7 +29,6 @@
   - [ ] 定義 `TileType` 列舉，建立 15×8 地圖陣列並渲染
   - [ ] 建立 `Enemy` 類別，實作路點（Waypoint）追蹤移動
   
-
 - Week 05：場景管理器
   - [ ] 建立 `Scene` 抽象類別，實作 `MenuScene` 與 `GameScene`
   - [ ] 實作場景切換機制
